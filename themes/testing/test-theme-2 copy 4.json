@@ -1,5 +1,5 @@
 {
-    "name": "Testing-2-copy",
+    "name": "Testing-2--4copy",
     "is_dark": true,
     "colors": {
         "accent-color": "#18D69E",
@@ -13,7 +13,7 @@
         "roomlist-background-color": "#18ACD6",
         "roomlist-text-color": "#FFFFFF",
         "roomlist-text-secondary-color": "#17B2D6",
-        "roomlist-highlights-color": "#343A46",
+        "roomlist-highlights-color": "#979797",
         "roomlist-separator-color": "#FFFFFF",
 
         "secondary-content": "#dcddde",
@@ -22,7 +22,7 @@
         "timeline-background-color": "#2718D6",
         "timeline-text-color": "#FFFFFF",
         "timeline-text-secondary-color": "#18D67E",
-        "timeline-highlights-color": "#FFFFFF",
+        "timeline-highlights-color": "#979797",
 
         "reaction-row-button-selected-bg-color": "#4752c4",
         "menu-selected-color": "#4752c4",
