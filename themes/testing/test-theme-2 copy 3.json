@@ -1,0 +1,35 @@
+{
+    "name": "Testing-2--3copy",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#18D69E",
+        "accent": "#6503b",
+        "primary-color": "#17CCD6",
+        "warning-color": "#4718D6",
+        "alert": "#CBD416",
+
+        "sidebar-color": "17CCD6",
+
+        "roomlist-background-color": "#18ACD6",
+        "roomlist-text-color": "#FFFFFF",
+        "roomlist-text-secondary-color": "#17B2D6",
+        "roomlist-highlights-color": "#94EFF4",
+        "roomlist-separator-color": "#FFFFFF",
+
+        "secondary-content": "#dcddde",
+        "tertiary-content": "#dcddde",
+
+        "timeline-background-color": "#2718D6",
+        "timeline-text-color": "#FFFFFF",
+        "timeline-text-secondary-color": "#18D67E",
+        "timeline-highlights-color": "#94EFF4",
+
+        "reaction-row-button-selected-bg-color": "#4752c4",
+        "menu-selected-color": "#4752c4",
+        "focus-bg-color": "#4752c4",
+        "room-highlight-color": "#4752c4",
+        "other-user-pill-bg-color": "#4752c4",
+        "togglesw-off-color": "#72767d"
+
+    }
+}
