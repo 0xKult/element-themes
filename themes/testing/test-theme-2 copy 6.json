@@ -1,5 +1,5 @@
 {
-    "name": "Testing-2--5copy",
+    "name": "Testing-2--6copy",
     "is_dark": true,
     "colors": {
         "accent-color": "#18D69E",
@@ -22,7 +22,7 @@
         "timeline-background-color": "#2718D6",
         "timeline-text-color": "#FFFFFF",
         "timeline-text-secondary-color": "#18D67E",
-        "timeline-highlights-color": "#545454",
+        "timeline-highlights-color": "#0c0c0c",
 
         "reaction-row-button-selected-bg-color": "#4752c4",
         "menu-selected-color": "#4752c4",
